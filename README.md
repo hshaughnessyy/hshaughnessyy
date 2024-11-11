@@ -8,9 +8,8 @@
 
 🎓 Computer Games Development Graduate
 🌱 I'm currently working on improving my programming skills
-✍️ In my free time, I enjoy playing video games, developing my own games, and repairing things (i.e, game consoles, controllers)
+✍️ In my free time, I enjoy playing video games, developing my own games, and repairing things (i.e, consoles, controllers)
 🎮 My favourite video game is <b/><i/>The Last Of Us</b></i> by <b/><i/>Naughty Dog</b></i> 🐾
-  
 </pre>
 
 <!---
