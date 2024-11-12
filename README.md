@@ -23,7 +23,8 @@
 <div align="center">
 <h4/><b/>𝙻𝙸𝙽𝙺𝚂</b></h4>
 
-<a href="https://www.artstation.com/hshaughnessy" target="_blank" rel="noopener noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/artstation-badge?style=for-the-badge&logo=ArtStation&labelColor=black&color=black&link=https%3A%2F%2Fwww.artstation.com%2Fhshaughnessy" height="30" alt="artstation logo"/></a>
+<a href="https://www.artstation.com/hshaughnessy" target="_blank" rel="noopener noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/artstation-badge?style=for-the-badge&logo=ArtStation&labelColor=black&color=black&link=https%3A%2F%2Fwww.artstation.com%2Fhshaughnessy" height="30" alt="artstation logo"/></a></br>
+<a href="https://https://hshaughnessy.itch.io/" target="_blank" rel="noopener noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/itch.io-badge?logo=itch.io&labelColor=white&color=white" height="30" alt="itch.io logo"/></a>
 </div>
 
 
